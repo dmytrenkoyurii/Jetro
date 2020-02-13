@@ -330,7 +330,10 @@ footer {
 .footer__inner {
     display: flex;
     justify-content: space-between;
-    padding: 37px 35px;
+    padding-top: 37px;
+    padding-bottom: 37px;
+    padding-left: 35px;
+    padding-right: 35px;
     background-color: #e8663c;
     font-size: 12px;
     font-family: 'Gothic A1', sans-serif;
